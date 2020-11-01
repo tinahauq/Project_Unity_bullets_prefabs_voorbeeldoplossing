@@ -52,6 +52,9 @@ TagManager:
   - name: Player
     uniqueID: 4123059475
     locked: 0
+  - name: Spaceship
+    uniqueID: 2576909667
+    locked: 0
   - name: Bullet
     uniqueID: 2100051281
     locked: 0
